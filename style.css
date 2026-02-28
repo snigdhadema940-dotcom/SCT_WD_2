@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 100px;
+  background: black;
+  color:aliceblue;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 30px;
+  background-color:bisque;
+}
+
+#display {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+li {
+  margin: 5px;
+  font-size: 30px;
+}
+#laps{
+    list-style: none;
+}
